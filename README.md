@@ -1,30 +1,29 @@
-The Celestial Times 🌌
-A Real-Time Space News Tracker
+# The Celestial Times 🌌
 
-The Celestial Times is a sleek web application that delivers the latest space news, discoveries, launches, missions, and cosmic breakthroughs in real time. Built with Flask, Bootstrap, and JavaScript, it fetches data from public space APIs and dynamically displays it in a responsive, modern grid layout.
+**A Real-Time Space News Tracker**
 
-Features
+The Celestial Times is a sleek web application that delivers the latest space news, discoveries, launches, missions, and cosmic breakthroughs in real time. Built with **Flask**, **Bootstrap**, and **JavaScript**, it fetches data from public space APIs and dynamically displays it in a responsive, modern grid layout.
 
-Fetches latest space news automatically from public APIs.
+---
 
-Responsive card layout using Bootstrap grid.
+## Features
 
-Uniform, clean design with dark theme for a modern look.
+- Fetches latest space news automatically from public APIs
+- Responsive card layout using **Bootstrap grid**
+- Uniform, clean design with **dark theme** for a modern look
+- Each article shows: title, summary, image, and a “Read More” button linking to the source
+- Auto-refresh or dynamic updates for the latest headlines
+- Fully mobile-friendly and responsive layout
 
-Each article shows: title, summary, image, and a “Read More” button linking to the source.
+---
 
-Auto-refresh or dynamic updates (optional) for the latest headlines.
+## Technologies Used
 
-Fully mobile-friendly and responsive layout.
+- **Backend:** Python, Flask
+- **Frontend:** HTML, CSS, JavaScript
+- **Styling & Layout:** Bootstrap 5
+- **Icons:** Bootstrap Icons
+- **Data:** Public Space APIs (SpaceFlight News API)
 
-Technologies Used
 
-Backend: Python, Flask
 
-Frontend: HTML, CSS, JavaScript
-
-Styling & Layout: Bootstrap 5
-
-Icons: Bootstrap Icons
-
-Data: Public Space APIs (SpaceFlight News API)
