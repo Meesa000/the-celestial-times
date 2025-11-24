@@ -12,17 +12,15 @@ The Celestial Times is a sleek web application that delivers the latest space ne
 - Responsive card layout using **Bootstrap grid**
 - Uniform, clean design with **dark theme** for a modern look
 - Each article shows: title, summary, image, and a “Read More” button linking to the source
-- Auto-refresh or dynamic updates for the latest headlines
 - Fully mobile-friendly and responsive layout
 
 ---
 
 ## Technologies Used
 
-- **Backend:** Python, Flask
+- **Backend:** Flask
 - **Frontend:** HTML, CSS, JavaScript
 - **Styling & Layout:** Bootstrap 5
-- **Icons:** Bootstrap Icons
 - **Data:** Public Space APIs (SpaceFlight News API)
 
 
