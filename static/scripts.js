@@ -17,7 +17,7 @@
 
                 articleTitle.innerHTML = article.title;
                 articleSummary.innerHTML = article.summary;
-                // articleImg.src = article.img_url;
+                articleImg.src = article.img_url;
 
                 // gets the main container of the page to append each card to
                 let mainContainer = document.getElementById('main-container');

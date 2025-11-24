@@ -6,7 +6,7 @@ base_url = 'https://api.spaceflightnewsapi.net/v4/'
 def get_latest_articles():
     
     parameters = {
-        'limit': '3'
+        'limit': '10'
     }
     
     articles_url = f"{base_url}articles/"
