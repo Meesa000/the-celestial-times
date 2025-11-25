@@ -23,5 +23,5 @@ The Celestial Times is a sleek web application that delivers the latest space ne
 - **Styling & Layout:** Bootstrap 5
 - **Data:** Public Space APIs (SpaceFlight News API)
 
-
+Hosted on Vercel: https://space-news-tracker.vercel.app/
 
